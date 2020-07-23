@@ -3,8 +3,6 @@ import { hot } from 'react-hot-loader'
 import Loading from './Loading'
 //import Warning from './Warning'
 const Warning = React.lazy(() => import('./Warning'))
-
-const a = 'hello world'
 const App = () => {
   const [count, setCount] = useState(0)
   return (
