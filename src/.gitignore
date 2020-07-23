@@ -1,5 +1,0 @@
-dist
-node_modules
-webpack.config.base.js
-webpack.config.prod.js
-webpack.config.dev.js
